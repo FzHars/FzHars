@@ -1,10 +1,6 @@
 <p align="center"> 
   <img src="./img/coffe.jpeg" style="border-radius: 30px;" alt="Header Coffee">
-</p>
-
-<!-- <p align="center">
-  <img src="https://count.getloli.com/get/@FzHars?theme=boiboi" alt="Visitor Counter" />
-</p> -->
+</p>  
 
 ## 💫 About Me
 I'm human; currently learning, working on new ideas, and looking to collaborate with others. ✨
@@ -20,14 +16,25 @@ I'm human; currently learning, working on new ideas, and looking to collaborate 
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=FzHars&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" /> 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FzHars&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=FzHars&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" /> 
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FzHars&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   <!-- <img src="https://streak-stats.demolab.com/?user=FzHars&theme=gotham&hide_border=true&hide_current_streak=true&hide_longest_streak=true" height="150" />
   <br><br> -->
 </p>
+ 
+<p align="center">
+  #visit count
+  <img src="https://count.getloli.com/get/@FzHars?theme=ai-1" alt="Visitor Counter" />
+</p>  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
+<p align="center">
+  <img src="https://count.getloli.com/get/@FzHars?theme=gelbooru" alt="Visitor Counter" />
+</p>   
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FzHars&theme=gotham&hide_border=true" />
+</p>
 <div> 
   
   ![](https://github-readme-stats.shion.dev/api?username=FzHars&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
