@@ -22,8 +22,9 @@ I'm human; currently learning, working on new ideas, and looking to collaborate 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=FzHars&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" height="150" /> 
+<!--
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FzHars&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" />
-  <!-- <img src="https://streak-stats.demolab.com/?user=FzHars&theme=gotham&hide_border=true&hide_current_streak=true&hide_longest_streak=true" height="150" />
+   <img src="https://streak-stats.demolab.com/?user=FzHars&theme=gotham&hide_border=true&hide_current_streak=true&hide_longest_streak=true" height="150" />
   <br><br> -->
 </p>  
 
