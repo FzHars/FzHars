@@ -14,7 +14,7 @@ I'm human; currently learning, working on new ideas, and looking to collaborate 
 <p align="center">  
 <br>
   <img src="https://skillicons.dev/icons?i=js,nodejs,php,tailwind,bootstrap,react,nextjs,laravel" /><br><br>
-  <img src="https://skillicons.dev/icons?i=vite,cloudflare,vercel,netlify,npm,supabase,mysql" /> 
+  <img src="https://skillicons.dev/icons?i=git,vite,cloudflare,vercel,netlify,npm,supabase,mysql" /> 
 </p>
 
 <br>
