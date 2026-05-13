@@ -1,3 +1,5 @@
+![Header](./img/penguinWhy.jpg)
+
 # 💫 About Me:
 I'm human; currently learning, working on new ideas, and looking to collaborate with others. ✨
  
