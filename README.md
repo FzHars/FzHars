@@ -1,4 +1,4 @@
-[Header](./img/coffe.jpeg)
+[Header](./img/penguinWhy.jpeg)
 
 # 💫 About Me:
 I'm human; currently learning, working on new ideas, and looking to collaborate with others. ✨
