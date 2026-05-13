@@ -1,25 +1,30 @@
-<p align="center">
-  <img src="./img/coffe.jpeg" width="100%" border-radius: 10px;" alt="Header Coffe">
+<p align="center"> 
+  <img src="./img/coffe.jpeg" style="border-radius: 30px;" alt="Header Coffee">
 </p>
 
-# 💫 About Me:
+<!-- <p align="center">
+  <img src="https://count.getloli.com/get/@FzHars?theme=boiboi" alt="Visitor Counter" />
+</p> -->
+
+## 💫 About Me
 I'm human; currently learning, working on new ideas, and looking to collaborate with others. ✨
 
-<h1 align="center">💻 Tech Stack</h1>
+<h2 align="center">💻 Tech Stack</h2>
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=js,nodejs,php,tailwind,bootstrap,react,nextjs,laravel" />
-  <br> 
+  <br>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,php,tailwind,bootstrap,react,nextjs,laravel" /><br><br>
   <img src="https://skillicons.dev/icons?i=vite,cloudflare,vercel,netlify,npm,supabase,mysql" /> 
-  <br> 
 </p>
 
-# 📊 GitHub Stats
+<br>
 
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-   <img src="https://github-readme-stats.shion.dev/api?username=FzHars&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"/> 
-  <img src="https://streak-stats.demolab.com/?user=FzHars&theme=gotham&hide_border=true&hide_current_streak=true&hide_longest_streak=true"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FzHars&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="130" />
-</p> 
+  <img src="https://github-readme-stats.shion.dev/api?username=FzHars&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" /> 
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FzHars&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <!-- <img src="https://streak-stats.demolab.com/?user=FzHars&theme=gotham&hide_border=true&hide_current_streak=true&hide_longest_streak=true" height="150" />
+  <br><br> -->
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
