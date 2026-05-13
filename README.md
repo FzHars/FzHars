@@ -6,6 +6,13 @@
 I'm human; currently learning, working on new ideas, and looking to collaborate with others. ✨
 
 # 💻 Tech Stack:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+<img src="https://skillicons.dev/icons?i=laravel" />
 <div align="center"> 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) !
